@@ -21,7 +21,11 @@ With java installed on your machine, you can start the application in the **comm
 2. Run the application: Once the code is compiled, you can run the application using the `java Application` command, since the compiled classes name is "Application".
 
 ## Authors and acknowledgment
-- Andreas Armanious
+- Andreas Armanious 
+
+[My Github Profile](https://www.github.com/straumandi) 
+
+[My University](https://www.fh-joanneum.at/)
 
 For now i am developing this simple program on my own, but i'm very open to contributors for a more fun and complex future version.
 
@@ -45,3 +49,4 @@ Please make sure to update tests as appropriate.
 
 ##### Exercises
 - [Exercise1](exercise1.md)
+- [Exercise2](exercise2.md)
