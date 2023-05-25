@@ -106,7 +106,7 @@ public class CalculatorTest {
     @Test
     void testFaculty1() {
         double result = calculator.faculty(5);
-        //5 * 4 * 3 * 2 * 1 = 20 * 3 = 60 * 2 = 120
+        //5 * 4 * 3 * 2 * 1 = 120
         Assertions.assertEquals(120, result);
     }
 

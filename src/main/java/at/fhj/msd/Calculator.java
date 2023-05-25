@@ -16,5 +16,11 @@ public class Calculator {
     public double multiply(double number1, double number2) {
         return number1 * number2;
     }
-    public double faculty(double number) { return 0; }
+    public double faculty(double number) {
+        double fac = 1;
+        for (int i = 1; i <= number; i++) {
+            fac *= i;
+        }
+        return fac;
+    }
 }
