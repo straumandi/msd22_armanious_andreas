@@ -102,5 +102,27 @@ public class CalculatorTest {
         Assertions.assertEquals(-1000, result);
     }
 
+    @DisplayName("First test of faculty() method")
+    @Test
+    void testFaculty1() {
+        double result = calculator.faculty(5);
+        //5 * 4 * 3 * 2 * 1 = 20 * 3 = 60 * 2 = 120
+        Assertions.assertEquals(120, result);
+    }
+
+    @DisplayName("Second test of faculty() method")
+    @Test
+    void testFaculty2() {
+        double result = calculator.faculty(3);
+        Assertions.assertEquals(6, result);
+    }
+
+    @DisplayName("Third test of faculty() method")
+    @Test
+    void testFaculty3() {
+        double result = calculator.faculty(2);
+        Assertions.assertEquals(2, result);
+    }
+
     //Teardown not necessary since Java has Garbage Collection
 }
