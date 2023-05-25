@@ -1,6 +1,4 @@
-package org.example;
-
-import at.fhj.msd.Calculator;
+package at.fhj.msd;
 
 public class Main {
     public static void main(String[] args) {
