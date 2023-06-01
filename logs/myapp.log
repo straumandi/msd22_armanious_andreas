@@ -1,0 +1,32 @@
+12:52:37.912 [main] DEBUG at.fhj.msd.Main - add() called with following values: 1.0 and 1.0
+12:52:37.937 [main] DEBUG at.fhj.msd.Main - add() called with following values: 0.0 and 1.0
+12:52:37.940 [main] DEBUG at.fhj.msd.Main - add() called with following values: 100.0 and -50.0
+12:52:37.943 [main] DEBUG at.fhj.msd.Main - multiply() called with following values: 0.0 and 50.0
+12:52:37.946 [main] DEBUG at.fhj.msd.Main - multiply() called with following values: 2.0 and 50.0
+12:52:37.950 [main] DEBUG at.fhj.msd.Main - multiply() called with following values: 500.0 and -2.0
+12:52:37.954 [main] DEBUG at.fhj.msd.Main - faculty() called with following value: 5.0
+12:52:37.957 [main] DEBUG at.fhj.msd.Main - faculty() called with following value: 3.0
+12:52:37.961 [main] DEBUG at.fhj.msd.Main - faculty() called with following value: 2.0
+12:52:37.964 [main] DEBUG at.fhj.msd.Main - divide() called with following values: 0.0 and 50.0
+12:52:37.970 [main] DEBUG at.fhj.msd.Main - divide() called with following values: 1.0 and 0.0
+12:52:37.970 [main] ERROR at.fhj.msd.Main - division by zero!
+12:52:37.973 [main] DEBUG at.fhj.msd.Main - divide() called with following values: 20.0 and 20.0
+12:52:37.976 [main] DEBUG at.fhj.msd.Main - minus() called with following values: 100.0 and -50.0
+12:52:37.979 [main] DEBUG at.fhj.msd.Main - minus() called with following values: 0.0 and 50.0
+12:52:37.983 [main] DEBUG at.fhj.msd.Main - minus() called with following values: 0.0 and -100.0
+14:53:04.885 [main] DEBUG at.fhj.msd.Main - add() called with following values: 1.0 and 1.0
+14:53:04.936 [main] DEBUG at.fhj.msd.Main - add() called with following values: 0.0 and 1.0
+14:53:04.942 [main] DEBUG at.fhj.msd.Main - add() called with following values: 100.0 and -50.0
+14:53:04.950 [main] DEBUG at.fhj.msd.Main - multiply() called with following values: 0.0 and 50.0
+14:53:04.954 [main] DEBUG at.fhj.msd.Main - multiply() called with following values: 2.0 and 50.0
+14:53:04.954 [main] DEBUG at.fhj.msd.Main - multiply() called with following values: 500.0 and -2.0
+14:53:04.967 [main] DEBUG at.fhj.msd.Main - faculty() called with following value: 5.0
+14:53:04.967 [main] DEBUG at.fhj.msd.Main - faculty() called with following value: 3.0
+14:53:04.976 [main] DEBUG at.fhj.msd.Main - faculty() called with following value: 2.0
+14:53:04.980 [main] DEBUG at.fhj.msd.Main - divide() called with following values: 0.0 and 50.0
+14:53:04.992 [main] DEBUG at.fhj.msd.Main - divide() called with following values: 1.0 and 0.0
+14:53:04.992 [main] ERROR at.fhj.msd.Main - division by zero!
+14:53:04.993 [main] DEBUG at.fhj.msd.Main - divide() called with following values: 20.0 and 20.0
+14:53:05.002 [main] DEBUG at.fhj.msd.Main - minus() called with following values: 100.0 and -50.0
+14:53:05.002 [main] DEBUG at.fhj.msd.Main - minus() called with following values: 0.0 and 50.0
+14:53:05.009 [main] DEBUG at.fhj.msd.Main - minus() called with following values: 0.0 and -100.0

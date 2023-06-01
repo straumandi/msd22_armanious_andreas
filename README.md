@@ -13,6 +13,9 @@ You will need java on your local machine, **Java version 17 or higher** is recom
 ## Installation
 If you are not sure how to install java properly on your machine, [here](https://www.liquidweb.com/kb/how-to-install-java-windows-ubuntu-macos/) is a link to help you out.
 
+## Configuration
+You can find a template for the proper log4j2 configuration under src/main/resources/[log4j2.xml.template](src/main/resources/log4j2.xml.template).
+
 ## How To Play
 With java installed on your machine, you can start the application in the **command line**(bash for unix based systems like Linux and MacOS) or the PowerShell for Windows systems.
 
