@@ -55,3 +55,4 @@ Please make sure to update tests as appropriate.
 - [Exercise2](exercise2.md)
 - [Exercise3](exercise3.md)
 - [Exercise4](exercise4.md)
+- [Exercise5](exercise5.md)
