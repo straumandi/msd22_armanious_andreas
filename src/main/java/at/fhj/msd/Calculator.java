@@ -7,7 +7,6 @@ public class Calculator {
     /**
      * <p>This constant is used for the logging functionality of log4j2.</p>
      * @since 1.0
-     * @author Andreas Armanious
      */
     private final static Logger logger = LogManager.getLogger(Main.class);
 
@@ -17,7 +16,6 @@ public class Calculator {
      * @param number2 second number to add
      * @return the addition result as a double
      * @since 1.0
-     * @author Andreas Armanious
      */
     public double add(double number1, double number2){
         logger.debug("add() called with following values: " + number1 + " and " + number2);
@@ -30,7 +28,6 @@ public class Calculator {
      * @param number2 the second number to subtract (subtrahend)
      * @return the subtraction result as a double
      * @since 1.0
-     * @author Andreas Armanious
      */
     public double minus(double number1, double number2) {
         logger.debug("minus() called with following values: " + number1 + " and " + number2);
@@ -44,7 +41,6 @@ public class Calculator {
      * @return the division result as a double
      * @throws ArithmeticException when divisor is zero
      * @since 1.0
-     * @author Andreas Armanious
      */
     public double divide(double number1, double number2){
         logger.debug("divide() called with following values: " + number1 + " and " + number2);
@@ -61,7 +57,6 @@ public class Calculator {
      * @param number2 the second number
      * @return the multiplication result as a double
      * @since 1.0
-     * @author Andreas Armanious
      */
     public double multiply(double number1, double number2) {
         logger.debug("multiply() called with following values: " + number1 + " and " + number2);
@@ -73,7 +68,6 @@ public class Calculator {
      * @param number the number to calculate the faculty of
      * @return the faculty result as a double
      * @since 1.0
-     * @author Andreas Armanious
      */
     public double faculty(double number) {
         logger.debug("faculty() called with following value: " + number);
