@@ -2,6 +2,7 @@
 *.html
 *.pdf
 .idea/
+logs
 .log
 src/main/resources/log4j2.xml
 
@@ -27,9 +28,6 @@ buildNumber.properties
 # Java
 # Compiled class file
 *.class
-
-# Log file
-*.log
 
 # BlueJ files
 *.ctxt
